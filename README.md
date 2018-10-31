@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Implementation of deep learning framework -- Unet, using Keras
 
 The architecture was inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
@@ -80,3 +81,6 @@ runs seamlessly on CPU and GPU.
 Read the documentation [Keras.io](http://keras.io/)
 
 Keras is compatible with: Python 2.7-3.5.
+=======
+# unet
+>>>>>>> ab16eb5aba1a54df1cd0d6f5f6f1e9e45228e3ae
