@@ -79,4 +79,5 @@ supports both convolutional networks and recurrent networks, as well as combinat
 supports arbitrary connectivity schemes (including multi-input and multi-output training).
 runs seamlessly on CPU and GPU.
 Read the documentation [Keras.io](http://keras.io/)
+
 =======
