@@ -1,7 +1,5 @@
 The architecture was inspired by [U-Net: Convolutional Networks for Biomedical Image Segmentation](http://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/).
-
 ---
-
 ## Overview
 
 ### Data
@@ -34,17 +32,12 @@ After 5 epochs, calculated accuracy is about 0.97.
 
 Loss function for the training is basically just a binary crossentropy.
 
-
 ---
 
 ## How to use
 
-# Run main.py
-
-You will see the predicted results of test image in data/membrane/test
-
-### Or follow notebook trainUnet
-
+Run main.py. You will see the predicted results of test image in data/membrane/test 
+Or follow notebook trainUnet
 
 ### Results
 
