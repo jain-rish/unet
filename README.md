@@ -39,7 +39,7 @@ Loss function for the training is basically just a binary crossentropy.
 
 ## How to use
 
-### Run main.py
+# Run main.py
 
 You will see the predicted results of test image in data/membrane/test
 
