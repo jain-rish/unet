@@ -39,21 +39,11 @@ Loss function for the training is basically just a binary crossentropy.
 
 ## How to use
 
-### Dependencies
-
-This tutorial depends on the following libraries:
-
-* Tensorflow
-* Keras >= 1.0
-
-Also, this code should be compatible with Python versions 2.7-3.5.
-
 ### Run main.py
 
 You will see the predicted results of test image in data/membrane/test
 
 ### Or follow notebook trainUnet
-
 
 
 ### Results
@@ -63,18 +53,5 @@ Use the trained model to do segmentation on test images, the result is statisfac
 ![img/0test.png](img/0test.png)
 
 ![img/0label.png](img/0label.png)
-
-
-## About Keras
-
-Keras is a minimalist, highly modular neural networks library, written in Python and capable of running on top of either TensorFlow or Theano. It was developed with a focus on enabling fast experimentation. Being able to go from idea to result with the least possible delay is key to doing good research.
-
-Use Keras if you need a deep learning library that:
-
-allows for easy and fast prototyping (through total modularity, minimalism, and extensibility).
-supports both convolutional networks and recurrent networks, as well as combinations of the two.
-supports arbitrary connectivity schemes (including multi-input and multi-output training).
-runs seamlessly on CPU and GPU.
-Read the documentation [Keras.io](http://keras.io/)
 
 =======
